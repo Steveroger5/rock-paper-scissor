@@ -1,0 +1,49 @@
+p{
+  font-size: 2rem;
+  text-align: center;
+  font-family: "Work Sans";
+  font-weight: bold;
+}
+#title{
+  background-color:#424874;
+  padding: 0.5%;
+  color: #fff;
+}
+#scoreboard{
+  background-color: #fff;
+  padding:1%
+}
+#game{
+  background-color:  #424874;
+  padding: 2%;
+}
+#game1{
+  margin: 0 25% 0 25%;
+}
+i{
+  color: #fff;
+  border: 3px solid white;
+  border-radius: 50%;
+  padding: 14%;
+}
+i:hover{
+  color:#ffa41b;
+  border-color: #ffa41b;
+  background-color: #fff;
+}
+#scoreb{
+    margin: 0 10% 0 10%;
+}
+#score1{
+  border: 3px solid black;
+  padding: 1%;
+  /* margin-left: 4%; */
+}
+#score2{
+  border: 3px solid black;
+  /* margin-right:4%; */
+  padding: 1%;
+}
+#main{
+  margin: 0 35% 0 35%;
+}
